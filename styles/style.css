@@ -172,6 +172,7 @@ footer .logo-wrapper {
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   margin-bottom: 30px;
   width: 100%;
+  min-height: 523px;
 }
 
 .card-img-top {
